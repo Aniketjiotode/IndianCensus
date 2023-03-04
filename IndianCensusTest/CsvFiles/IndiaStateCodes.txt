@@ -1,0 +1,6 @@
+Move files from one folder to the respective folders
+
+$ touch abc.txt xyz.txt
+$ mkdir abc xyz
+$ mv abc.txt abc
+$ mv xyz.txt xyz
